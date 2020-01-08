@@ -42,25 +42,30 @@ nav a {
 
 section {
 	min-height: 100vh;
-	display: flex;
 }
 
 section h2 {
 	font-size: 5rem;
 	color: white;
-	text-align: right;
+	text-align: center;
 }
 
 section h3 {
 	font-size: 5rem;
 	color: white;
-	text-align: right;
+	text-align: center;
+}
+
+section b3 {
+	font-size: 2rem;
+	color: black;
+	text-align: left;
 }
 
 section h4 {
 	font-size: 5rem;
 	color: white;
-	text-align: right;
+	text-align: center;
 }
 
 .home {
